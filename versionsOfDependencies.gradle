@@ -22,7 +22,7 @@ ext {
     revHealth = '1.1.+'
     revHiberante = '6.0.13.Final'
     revHikariCP = '3.2.0'
-    revJsonPath = '2.2.0'
+    revJsonPath = '2.4.0'
     revJaxrsJackson = '2.7.5'
     revJavaElApi = '3.0.0'
     revJavaxInject = '1'
