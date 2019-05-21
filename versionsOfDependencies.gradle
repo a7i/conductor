@@ -19,7 +19,7 @@ ext {
     revGuiceServlet = '4.1.0'
     revHealth = '1.1.+'
     revHikariCP = '3.2.0'
-    revJsonPath = '2.3.0'
+    revJsonPath = '2.4.0'
     revJaxrsJackson = '2.7.5'
     revJavaxInject = '1'
     revJacksonCore = '2.7.5'

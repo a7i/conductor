@@ -45,8 +45,8 @@
             "locked": "3.5.1"
         },
         "com.jayway.jsonpath:json-path": {
-            "locked": "2.2.0",
-            "requested": "2.2.0"
+            "locked": "2.4.0",
+            "requested": "2.4.0"
         },
         "com.netflix.conductor:conductor-common": {
             "project": true
@@ -130,8 +130,8 @@
             "locked": "3.5.1"
         },
         "com.jayway.jsonpath:json-path": {
-            "locked": "2.2.0",
-            "requested": "2.2.0"
+            "locked": "2.4.0",
+            "requested": "2.4.0"
         },
         "com.netflix.conductor:conductor-common": {
             "project": true
@@ -215,8 +215,8 @@
             "locked": "3.5.1"
         },
         "com.jayway.jsonpath:json-path": {
-            "locked": "2.2.0",
-            "requested": "2.2.0"
+            "locked": "2.4.0",
+            "requested": "2.4.0"
         },
         "com.netflix.conductor:conductor-common": {
             "project": true
@@ -310,8 +310,8 @@
             "locked": "3.5.1"
         },
         "com.jayway.jsonpath:json-path": {
-            "locked": "2.2.0",
-            "requested": "2.2.0"
+            "locked": "2.4.0",
+            "requested": "2.4.0"
         },
         "com.netflix.conductor:conductor-common": {
             "project": true
@@ -395,8 +395,8 @@
             "locked": "3.5.1"
         },
         "com.jayway.jsonpath:json-path": {
-            "locked": "2.2.0",
-            "requested": "2.2.0"
+            "locked": "2.4.0",
+            "requested": "2.4.0"
         },
         "com.netflix.conductor:conductor-common": {
             "project": true
@@ -480,8 +480,8 @@
             "locked": "3.5.1"
         },
         "com.jayway.jsonpath:json-path": {
-            "locked": "2.2.0",
-            "requested": "2.2.0"
+            "locked": "2.4.0",
+            "requested": "2.4.0"
         },
         "com.netflix.conductor:conductor-common": {
             "project": true
@@ -577,8 +577,8 @@
             "locked": "3.5.1"
         },
         "com.jayway.jsonpath:json-path": {
-            "locked": "2.2.0",
-            "requested": "2.2.0"
+            "locked": "2.4.0",
+            "requested": "2.4.0"
         },
         "com.netflix.conductor:conductor-common": {
             "project": true
@@ -674,8 +674,8 @@
             "locked": "3.5.1"
         },
         "com.jayway.jsonpath:json-path": {
-            "locked": "2.2.0",
-            "requested": "2.2.0"
+            "locked": "2.4.0",
+            "requested": "2.4.0"
         },
         "com.netflix.conductor:conductor-common": {
             "project": true
@@ -771,8 +771,8 @@
             "locked": "3.5.1"
         },
         "com.jayway.jsonpath:json-path": {
-            "locked": "2.2.0",
-            "requested": "2.2.0"
+            "locked": "2.4.0",
+            "requested": "2.4.0"
         },
         "com.netflix.conductor:conductor-common": {
             "project": true

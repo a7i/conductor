@@ -74,7 +74,7 @@
             "firstLevelTransitive": [
                 "com.netflix.conductor:conductor-core"
             ],
-            "locked": "2.2.0"
+            "locked": "2.4.0"
         },
         "com.netflix.conductor:conductor-common": {
             "firstLevelTransitive": [
@@ -423,7 +423,7 @@
             "firstLevelTransitive": [
                 "com.netflix.conductor:conductor-core"
             ],
-            "locked": "2.2.0"
+            "locked": "2.4.0"
         },
         "com.netflix.conductor:conductor-common": {
             "firstLevelTransitive": [
@@ -772,7 +772,7 @@
             "firstLevelTransitive": [
                 "com.netflix.conductor:conductor-core"
             ],
-            "locked": "2.2.0"
+            "locked": "2.4.0"
         },
         "com.netflix.conductor:conductor-common": {
             "firstLevelTransitive": [
@@ -1121,7 +1121,7 @@
             "firstLevelTransitive": [
                 "com.netflix.conductor:conductor-core"
             ],
-            "locked": "2.2.0"
+            "locked": "2.4.0"
         },
         "com.netflix.conductor:conductor-common": {
             "firstLevelTransitive": [
@@ -1540,7 +1540,7 @@
             "firstLevelTransitive": [
                 "com.netflix.conductor:conductor-core"
             ],
-            "locked": "2.2.0"
+            "locked": "2.4.0"
         },
         "com.netflix.conductor:conductor-common": {
             "firstLevelTransitive": [
@@ -1889,7 +1889,7 @@
             "firstLevelTransitive": [
                 "com.netflix.conductor:conductor-core"
             ],
-            "locked": "2.2.0"
+            "locked": "2.4.0"
         },
         "com.netflix.conductor:conductor-common": {
             "firstLevelTransitive": [
@@ -2238,7 +2238,7 @@
             "firstLevelTransitive": [
                 "com.netflix.conductor:conductor-core"
             ],
-            "locked": "2.2.0"
+            "locked": "2.4.0"
         },
         "com.netflix.conductor:conductor-common": {
             "firstLevelTransitive": [
@@ -2587,7 +2587,7 @@
             "firstLevelTransitive": [
                 "com.netflix.conductor:conductor-core"
             ],
-            "locked": "2.2.0"
+            "locked": "2.4.0"
         },
         "com.netflix.conductor:conductor-common": {
             "firstLevelTransitive": [
@@ -2944,7 +2944,7 @@
             "firstLevelTransitive": [
                 "com.netflix.conductor:conductor-core"
             ],
-            "locked": "2.2.0"
+            "locked": "2.4.0"
         },
         "com.netflix.conductor:conductor-common": {
             "firstLevelTransitive": [
@@ -3301,7 +3301,7 @@
             "firstLevelTransitive": [
                 "com.netflix.conductor:conductor-core"
             ],
-            "locked": "2.2.0"
+            "locked": "2.4.0"
         },
         "com.netflix.conductor:conductor-common": {
             "firstLevelTransitive": [
@@ -3658,7 +3658,7 @@
             "firstLevelTransitive": [
                 "com.netflix.conductor:conductor-core"
             ],
-            "locked": "2.2.0"
+            "locked": "2.4.0"
         },
         "com.netflix.conductor:conductor-common": {
             "firstLevelTransitive": [
